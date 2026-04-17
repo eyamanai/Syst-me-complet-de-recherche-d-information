@@ -1,0 +1,11 @@
+Bioinformatics and Computational Biology
+============================================================
+
+Bioinformatics applies computational methods to analyze biological data.
+Sequence alignment compares DNA, RNA, or protein sequences to find similarities.
+Genome assembly reconstructs complete genomic sequences from short reads.
+Gene expression analysis measures which genes are active in different conditions.
+Protein structure prediction determines the 3D shape of proteins from sequences.
+Phylogenetic analysis reconstructs evolutionary relationships between organisms.
+BLAST searches biological sequence databases for similar sequences quickly.
+Machine learning increasingly drives drug discovery and genomic research.

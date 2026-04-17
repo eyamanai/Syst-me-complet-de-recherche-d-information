@@ -1,0 +1,11 @@
+Advanced Natural Language Processing
+============================================================
+
+Large language models are trained on massive text corpora using self-supervised learning.
+Attention mechanisms allow models to focus on relevant parts of input sequences.
+The transformer architecture revolutionized NLP with parallel sequence processing.
+BERT learns bidirectional representations by predicting masked words in context.
+GPT models generate coherent text autoregressively given a starting prompt.
+Fine-tuning adapts pre-trained language models to specific downstream tasks.
+Retrieval-augmented generation combines language models with external knowledge bases.
+Chain-of-thought prompting improves reasoning by eliciting step-by-step explanations.

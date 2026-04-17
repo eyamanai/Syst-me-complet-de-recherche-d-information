@@ -1,0 +1,11 @@
+Robotics and Automation Systems
+============================================================
+
+Robotics combines mechanical engineering, electrical engineering, and computer science.
+Industrial robots automate repetitive manufacturing tasks with high precision.
+Autonomous mobile robots navigate environments using sensors and AI algorithms.
+Computer vision enables robots to perceive and interpret their visual environment.
+Collaborative robots (cobots) work safely alongside human workers.
+Robot operating system (ROS) provides tools and libraries for robot software development.
+Inverse kinematics calculates joint angles needed to reach a target position.
+Swarm robotics coordinates large numbers of simple robots to achieve complex goals.

@@ -1,0 +1,11 @@
+Ethics in Artificial Intelligence
+============================================================
+
+AI ethics addresses the moral implications of artificial intelligence systems.
+Algorithmic bias occurs when AI systems produce unfair outcomes for certain groups.
+Transparency requires AI systems to explain their decisions to affected users.
+Privacy concerns arise from AI systems collecting and processing personal data.
+Accountability determines who is responsible when AI systems cause harm.
+Fairness in machine learning ensures equitable treatment across demographic groups.
+The alignment problem addresses how to ensure AI pursues intended human values.
+Regulatory frameworks for AI are being developed by governments worldwide.

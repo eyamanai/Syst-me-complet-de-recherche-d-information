@@ -1,0 +1,11 @@
+Internet of Things and Smart Devices
+============================================================
+
+The Internet of Things connects physical devices to the internet to collect and share data.
+Smart home devices include thermostats, security cameras, and voice assistants.
+Industrial IoT optimizes manufacturing and supply chain processes through sensor data.
+Edge computing processes IoT data locally to reduce latency and bandwidth usage.
+MQTT is a lightweight messaging protocol commonly used in IoT applications.
+IoT security is critical as billions of connected devices create attack surfaces.
+Wearable devices monitor health metrics like heart rate and sleep patterns.
+5G networks provide the bandwidth and low latency needed for IoT deployment.

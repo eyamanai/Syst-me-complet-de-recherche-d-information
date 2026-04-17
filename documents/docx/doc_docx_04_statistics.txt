@@ -1,0 +1,11 @@
+Statistics and Probability for Data Science
+============================================================
+
+Statistics provides tools for collecting, analyzing, and interpreting data.
+Descriptive statistics summarize data using measures of central tendency and spread.
+Inferential statistics draws conclusions about populations from sample data.
+Hypothesis testing determines whether observed effects are statistically significant.
+The p-value measures the probability of observing results as extreme by chance.
+Bayesian inference updates probability estimates as new evidence becomes available.
+Regression analysis models relationships between dependent and independent variables.
+A/B testing compares two versions of something to determine which performs better.

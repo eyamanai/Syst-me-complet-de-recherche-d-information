@@ -1,0 +1,11 @@
+Quantum Computing Fundamentals
+============================================================
+
+Quantum computing harnesses quantum mechanical phenomena to perform calculations.
+Qubits can exist in superposition, representing 0 and 1 simultaneously.
+Quantum entanglement allows correlations between qubits regardless of distance.
+Quantum gates manipulate qubits to perform computational operations.
+Shor's algorithm can factor large numbers exponentially faster than classical computers.
+Grover's algorithm provides quadratic speedup for searching unsorted databases.
+Quantum error correction addresses the challenge of qubit decoherence.
+Near-term quantum devices are called Noisy Intermediate-Scale Quantum computers.

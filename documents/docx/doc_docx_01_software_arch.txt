@@ -1,0 +1,11 @@
+Software Architecture Patterns
+============================================================
+
+Software architecture defines the high-level structure of software systems.
+Microservices architecture decomposes applications into independently deployable services.
+Event-driven architecture uses events to trigger and communicate between services.
+The Model-View-Controller pattern separates concerns in user interface applications.
+Repository pattern abstracts data access logic from business logic in applications.
+CQRS separates command (write) and query (read) responsibilities for scalability.
+Hexagonal architecture isolates application core from external systems and infrastructure.
+Domain-driven design aligns software structure with business domain concepts.

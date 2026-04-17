@@ -1,0 +1,11 @@
+Augmented and Virtual Reality
+============================================================
+
+Augmented reality overlays digital information onto the real world environment.
+Virtual reality creates fully immersive digital environments for users.
+Mixed reality blends physical and digital worlds in real time interaction.
+Head-mounted displays provide immersive visual experiences for VR and AR.
+Spatial computing enables interaction with three-dimensional digital content.
+SLAM technology simultaneously maps environments and tracks device position.
+Haptic feedback provides tactile sensations to enhance virtual reality immersion.
+Enterprise applications of AR include training, maintenance, and remote assistance.

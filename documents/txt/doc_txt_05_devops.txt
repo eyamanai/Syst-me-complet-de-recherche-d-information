@@ -1,0 +1,11 @@
+DevOps Culture and Practices
+============================================================
+
+DevOps combines software development and IT operations to shorten delivery cycles.
+Continuous integration merges code changes frequently to detect problems early.
+Continuous deployment automates the release of software to production environments.
+Infrastructure as code manages IT infrastructure using configuration files.
+Monitoring and observability provide insight into system performance and behavior.
+Containerization with Docker packages applications with their dependencies.
+Kubernetes orchestrates containers at scale across server clusters.
+Site reliability engineering applies software engineering practices to operations.

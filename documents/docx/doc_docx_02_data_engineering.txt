@@ -1,0 +1,11 @@
+Data Engineering and Pipelines
+============================================================
+
+Data engineering builds systems that collect, process, and store data at scale.
+ETL pipelines extract data from sources, transform it, and load it into destinations.
+Apache Spark provides distributed data processing for large-scale batch workloads.
+Apache Kafka enables real-time streaming data pipelines between systems.
+Data lakes store raw data in native format for future processing and analysis.
+Data warehouses store structured, processed data optimized for analytical queries.
+dbt transforms data within the warehouse using SQL and software engineering practices.
+Data quality monitoring detects anomalies and ensures data meets defined standards.

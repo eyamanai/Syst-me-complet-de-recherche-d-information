@@ -1,0 +1,11 @@
+Computer Graphics and Visualization
+============================================================
+
+Computer graphics creates and manipulates visual images using computers.
+Rasterization converts geometric primitives into pixel arrays for display.
+Ray tracing simulates the physical behavior of light for photorealistic rendering.
+Shaders are programs that run on the GPU to determine pixel colors and effects.
+3D modeling creates geometric representations of objects in three-dimensional space.
+Animation systems simulate motion through keyframes or physics-based simulation.
+OpenGL and Vulkan provide APIs for hardware-accelerated graphics rendering.
+Texture mapping applies 2D images to 3D surfaces for realistic appearance.

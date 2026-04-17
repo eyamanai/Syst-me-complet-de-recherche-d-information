@@ -1,0 +1,11 @@
+Blockchain and Distributed Ledger Technology
+============================================================
+
+Blockchain is a distributed ledger technology that records transactions across multiple computers.
+Each block contains a cryptographic hash of the previous block, forming a chain.
+Bitcoin was the first application of blockchain technology, introduced in 2008.
+Smart contracts are self-executing contracts with terms written directly into code.
+Ethereum extended blockchain with programmable smart contracts and decentralized applications.
+Consensus mechanisms like Proof of Work and Proof of Stake validate transactions.
+Decentralized finance (DeFi) uses blockchain to recreate financial instruments without banks.
+Non-fungible tokens (NFTs) represent unique digital assets on the blockchain.

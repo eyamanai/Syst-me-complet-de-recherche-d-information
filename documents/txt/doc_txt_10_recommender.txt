@@ -1,0 +1,11 @@
+Recommender Systems and Personalization
+============================================================
+
+Recommender systems suggest items likely to interest individual users.
+Collaborative filtering identifies users with similar preferences for recommendations.
+Content-based filtering recommends items similar to those a user previously liked.
+Matrix factorization decomposes user-item interaction matrices for recommendations.
+The cold start problem occurs when systems lack data for new users or items.
+Implicit feedback from user behavior like clicks provides recommendation signals.
+Deep learning models capture complex patterns in user preferences and item features.
+Evaluation metrics include precision, recall, and normalized discounted cumulative gain.
