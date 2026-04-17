@@ -5,6 +5,8 @@
 
 ---
 
+![interface.png](interface.png)
+
 ## Structure du projet
 
 ```
